@@ -1,7 +1,6 @@
 
 """
-    Zamanlayıcı kullanımı
-    Tarihi gösteren küçük bir uygulama
+    Tarihi  saati gösteren küçük bir çalışma
 """
 
 import time
